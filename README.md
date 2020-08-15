@@ -5,6 +5,7 @@
 ### Stuff I Previously Worked On...
 
 - [MongoDB Wire Proto (Ruby)](https://github.com/nitinkatkam/MongoWireProto) : A MongoDB wire protocol tester to mock a MongoDB server or client
+- [FlexiRepo](https://github.com/nitincoded/FlexiRepo) : A web interface to query any database with a JDBC driver
 - [MailDB (Python)](https://github.com/nitinkatkam/maildb) : SMTP-to-DB
 - [SlideDeck (Javascript)](https://github.com/nitinkatkam/slidedeck) : Template to create HTML slides
 - [Helpdesk (Ruby)](https://github.com/redknitin/Helpdesk) : Helpdesk system to track requests
