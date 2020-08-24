@@ -10,7 +10,6 @@
 - [MailDB (Python)](https://github.com/nitinkatkam/maildb) : SMTP-to-DB
 - [SlideDeck (Javascript)](https://github.com/nitinkatkam/slidedeck) : Template to create HTML slides
 - [Helpdesk (Ruby)](https://github.com/redknitin/Helpdesk) : Helpdesk system to track requests
-- MultiDB (Java) : Generic REST interface over any JDBC database
 - [WPF Reddit Reader (C#)](https://github.com/redknitin/WpfRedditReader) : RSS reader for ReddIt
 - [N9 PHP Framework (PHP)](https://github.com/redknitin/n9fx) : MVC web framework for PHP
 - [.NET Config Settings Helper (C#)](https://github.com/redknitin/NitinConfigSettingsHelper) : Helper class for .NET config files
